@@ -1,1 +1,0 @@
-Display Current Workng Directory
